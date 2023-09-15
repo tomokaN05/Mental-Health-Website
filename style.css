@@ -1,0 +1,51 @@
+body {
+    background: #008080;
+}
+
+.welcome h1{
+   text-align: center;
+   color: white;
+}
+
+.option h1{
+    text-align: center;
+    color:white;
+}
+
+.botton1 a{
+    border-radius: 4px;
+    color: white;
+    display: block;
+    font-weight: 700;
+    width: 200px;
+    padding: 20px;
+    margin: 40px auto;
+    border: 1px solid white;
+}
+
+.botton1 a:hover {
+    background-color: #CC6666 ;
+    border: 1px solid #CC6666;
+    color: white ;
+}
+
+.botton2 a{
+    border-radius: 4px;
+    color: white;
+    display: block;
+    font-weight: 700;
+    width: 200px;
+    padding: 20px;
+    margin: 40px auto;
+    border: 1px solid white;
+}
+
+.botton2 a:hover {
+    background-color: #336699;
+    border: 1px solid #336699;
+    color: white ;
+}
+
+#footer {
+    color: blue;
+}
